@@ -1,0 +1,326 @@
+encuest	th	sexo	edad	carnet	carnetanyos	conducebicicleta	conducemoto	conducevehiculoligero	conducecamion	kmturismo	acturismonum	opinionlimites	conductavelocidad	conductaalcohol	conductamovil	conductacinturon	opinionradares	acturismo	sancion	carnetpuntosperdidos	sancion_velocidad
+1	Araba	Mujer	41	1	20	1	0	0	0	30	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+2	Bizkaia	Hombre	75	1	40	0	0	0	0	1500	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+3	Gipuzkoa	Mujer	75	1	34	0	0	0	0	30	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+4	Araba	Mujer	41	1	20	1	0	0	0	300	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+5	Bizkaia	Hombre	82	1	50	0	0	0	0	50	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+6	Bizkaia	Mujer	65	1	45	0	0	0	0	1	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+7	Bizkaia	Hombre	30	1	11	0	0	0	0	20	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	0	0	0
+8	Gipuzkoa	Mujer	43	1	25	0	0	1	0	40	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+9	Bizkaia	Hombre	35	1	16	0	1	1	0	300	0	Muy bajos	Bastante/Mucho	A veces	A veces	Siempre	Hay que cambiarlos de sitio	0	1	1	0
+10	Bizkaia	Mujer	67	1	44	0	0	0	0	50	3	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+11	Araba	Mujer	22	1	3	1	0	0	0	20	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+12	Bizkaia	Hombre	45	1	20	0	0	1	0	10	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+13	Bizkaia	Hombre	46	1	20	0	0	0	0	20	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+14	Bizkaia	Mujer	29	1	6	0	0	0	0	100	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+15	Araba	Mujer	68	1	35	0	0	0	0	30	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	1	1	0
+16	Bizkaia	Hombre	23	1	4	1	0	0	0	300	0	Muy altos	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+17	Gipuzkoa	Mujer	27	1	2	0	0	0	0	350	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+18	Bizkaia	Mujer	25	1	3	0	0	0	0	20	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+19	Gipuzkoa	Mujer	43	1	25	1	0	0	0	150	1	Estan ok	Nunca	Nunca	A veces	Siempre	Estan ok	1	0	0	0
+20	Gipuzkoa	Hombre	67	1	49	0	0	0	0	30	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+21	Gipuzkoa	Mujer	62	1	30	0	0	0	0	30	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+22	Bizkaia	Mujer	54	1	36	0	0	0	0	100	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+23	Bizkaia	Hombre	40	1	22	1	0	0	0	90	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	1	0	1
+24	Araba	Hombre	45	1	20	1	0	0	0	10	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+25	Araba	Mujer	26	1	5	0	0	0	0	50	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+26	Bizkaia	Hombre	62	1	30	0	0	0	0	500	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+27	Bizkaia	Hombre	64	1	43	1	0	0	0	20	0	Estan ok	Nunca	A veces	Nunca	Siempre	Estan ok	0	0	0	0
+28	Araba	Hombre	37	1	18	1	0	0	0	400	1	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	1	0	1
+29	Araba	Mujer	67	1	41	0	0	0	0	130	3	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	1	1	1	0
+30	Gipuzkoa	Mujer	58	1	15	1	0	0	0	80	1	Muy bajos	Alguna vez	Nunca	A veces	Siempre	Hay demasiados	1	1	1	1
+31	Bizkaia	Hombre	62	1	40	0	0	0	0	50	3	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+32	Araba	Hombre	56	1	38	0	0	0	0	40	0	Estan ok	Alguna vez	Nunca	Nunca	No siempre	Estan ok	0	1	0	0
+33	Araba	Mujer	30	1	10	1	0	0	0	10	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	1	0	1
+34	Araba	Mujer	57	1	30	0	0	0	0	5	2	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay demasiados	1	1	0	0
+35	Gipuzkoa	Mujer	48	1	28	0	0	0	0	30	0	Estan ok	Nunca	Nunca	A veces	Siempre	Estan ok	0	0	0	0
+36	Bizkaia	Hombre	48	1	30	1	1	0	0	150	1	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	1	0	0	0
+37	Gipuzkoa	Mujer	56	1	1	0	0	0	0	30	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+38	Bizkaia	Hombre	56	1	35	0	0	0	0	200	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	1	0	0
+39	Bizkaia	Hombre	66	1	40	0	0	0	0	400	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+40	Gipuzkoa	Hombre	74	1	45	0	0	0	0	25	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	1	0	1
+41	Bizkaia	Hombre	56	1	38	1	0	1	1	400	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+42	Bizkaia	Mujer	64	1	30	0	0	0	0	5	0	Muy altos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	1	0
+43	Gipuzkoa	Hombre	65	1	45	0	0	0	0	50	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	1	0	1
+44	Araba	Hombre	63	1	40	1	0	0	0	30	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+45	Gipuzkoa	Mujer	35	1	15	0	0	0	0	70	1	Estan ok	Nunca	Nunca	A veces	Siempre	Estan ok	1	0	0	0
+46	Bizkaia	Mujer	32	1	10	0	0	0	0	10	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+47	Araba	Mujer	45	1	19	0	0	0	0	120	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+48	Araba	Hombre	41	1	7	0	0	0	0	50	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	0
+49	Bizkaia	Hombre	66	1	31	0	0	0	0	1000	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	1	0	1
+50	Bizkaia	Hombre	41	1	19	0	0	0	0	75	0	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+51	Gipuzkoa	Mujer	40	1	17	0	0	0	0	50	0	Estan ok	Nunca	A veces	Nunca	Siempre	Estan ok	0	0	0	0
+52	Gipuzkoa	Mujer	68	1	40	0	0	0	0	10	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+53	Gipuzkoa	Hombre	64	1	46	1	0	0	0	15	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+54	Bizkaia	Hombre	74	1	50	0	0	0	0	30	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+55	Araba	Hombre	64	1	45	0	0	0	0	10	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	1	0	1
+56	Bizkaia	Hombre	66	1	48	0	1	0	0	100	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+57	Gipuzkoa	Hombre	85	1	50	0	0	0	0	50	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Estan ok	0	1	0	1
+58	Bizkaia	Mujer	41	1	23	0	0	0	0	70	2	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+59	Araba	Mujer	30	1	5	0	0	0	0	300	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+60	Araba	Hombre	60	1	42	1	0	0	0	10	3	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+61	Bizkaia	Hombre	40	1	21	0	0	0	0	300	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	0	0	0
+62	Bizkaia	Mujer	61	1	43	0	0	0	0	12	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+63	Araba	Hombre	21	1	1	1	0	0	0	2	0	Estan ok	Nunca	Nunca	A veces	Siempre	Estan ok	0	0	0	0
+64	Araba	Hombre	40	1	20	0	0	0	0	100	0	Muy altos	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+65	Araba	Hombre	23	1	3	1	0	0	0	50	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+66	Bizkaia	Mujer	60	1	42	0	0	0	0	100	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	1	0	1
+67	Bizkaia	Hombre	49	1	30	0	0	1	0	100	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+68	Bizkaia	Mujer	46	1	8	0	0	0	0	35	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+69	Bizkaia	Hombre	48	1	6	0	0	0	0	50	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+70	Araba	Mujer	49	1	5	1	0	0	0	560	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	1	1
+71	Bizkaia	Hombre	48	1	27	0	0	0	0	150	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	1	1
+72	Bizkaia	Hombre	65	1	40	1	0	0	0	100	6	Muy altos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+73	Araba	Hombre	40	1	22	1	0	0	0	100	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	0
+74	Bizkaia	Mujer	58	1	25	0	0	0	0	100	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+75	Bizkaia	Hombre	68	1	51	0	0	0	0	20	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+76	Araba	Mujer	39	1	12	1	0	0	0	40	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	0	0	0
+77	Bizkaia	Hombre	46	1	26	1	0	0	0	300	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	1	0	1
+78	Araba	Hombre	44	1	24	0	0	0	0	300	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	1	1
+79	Gipuzkoa	Hombre	67	1	50	0	0	0	0	140	0	Estan ok	Bastante/Mucho	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+80	Araba	Hombre	72	1	47	0	0	0	0	210	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	1	1
+81	Gipuzkoa	Hombre	71	1	20	0	0	0	0	25	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+82	Bizkaia	Hombre	39	1	18	0	0	1	0	220	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+83	Gipuzkoa	Mujer	85	1	31	0	0	0	0	30	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+84	Araba	Mujer	45	1	28	0	0	1	0	40	0	Muy bajos	Alguna vez	A veces	A veces	Siempre	No debe haber ninguno	0	1	0	1
+85	Bizkaia	Hombre	73	1	50	0	0	0	0	100	6	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+86	Bizkaia	Hombre	54	1	30	0	0	0	0	200	2	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+87	Araba	Hombre	35	1	12	1	0	0	0	20	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	1	1
+88	Bizkaia	Mujer	25	1	4	0	0	0	0	25	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+89	Bizkaia	Mujer	37	1	7	1	0	0	0	100	1	Muy altos	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	1	0
+90	Bizkaia	Hombre	29	1	8	1	0	0	0	1000	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+91	Araba	Hombre	35	1	17	1	0	0	0	300	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+92	Bizkaia	Hombre	41	1	23	0	0	0	0	100	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	1	1	1
+93	Gipuzkoa	Hombre	58	1	40	0	0	0	1	20	0	Muy altos	Alguna vez	A veces	Nunca	Siempre	No debe haber ninguno	0	1	1	1
+94	Gipuzkoa	Mujer	55	1	35	1	0	0	0	20	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	0	0	0
+95	Gipuzkoa	Mujer	56	1	38	0	0	0	0	40	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+96	Bizkaia	Mujer	35	1	16	0	0	0	0	50	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+97	Araba	Hombre	45	1	27	0	0	0	0	150	4	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+98	Araba	Hombre	72	1	49	0	0	0	0	200	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+99	Bizkaia	Mujer	39	1	22	0	0	0	0	5	1	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+100	Araba	Mujer	44	1	20	1	0	0	0	100	1	Estan ok	Alguna vez	Nunca	A veces	Siempre	Estan ok	1	1	1	0
+101	Bizkaia	Hombre	43	1	24	0	0	0	0	100	3	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+102	Bizkaia	Mujer	29	1	5	0	0	0	0	210	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+103	Bizkaia	Mujer	42	1	22	0	0	0	0	50	1	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay demasiados	1	0	0	0
+104	Bizkaia	Mujer	38	1	16	0	0	0	0	250	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	0	0	0
+105	Bizkaia	Hombre	57	1	30	0	0	0	0	7	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+106	Bizkaia	Mujer	42	1	22	0	0	0	0	50	4	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	1	0	1
+107	Araba	Mujer	30	1	9	0	0	0	0	80	0	Estan ok	Bastante/Mucho	Nunca	A veces	Siempre	Hay demasiados	0	1	1	1
+108	Araba	Hombre	32	1	14	1	1	0	0	20	2	Muy bajos	Alguna vez	Nunca	A veces	No siempre	Hay que cambiarlos de sitio	1	1	1	0
+109	Bizkaia	Hombre	23	1	5	0	0	0	0	60	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+110	Gipuzkoa	Mujer	66	1	48	0	0	0	0	30	1	Estan ok	Nunca	Nunca	A veces	Siempre	Estan ok	1	0	0	0
+111	Bizkaia	Hombre	68	1	41	0	0	0	0	10	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	1	0	0
+112	Bizkaia	Hombre	62	1	44	0	0	0	0	40	3	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+113	Gipuzkoa	Mujer	59	1	41	0	0	0	0	50	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+114	Bizkaia	Hombre	38	1	15	0	1	0	0	200	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+115	Araba	Mujer	42	1	17	0	0	0	0	30	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+116	Araba	Mujer	57	1	39	1	0	0	0	100	2	Muy bajos	Nunca	A veces	Nunca	Siempre	Estan ok	1	0	0	0
+117	Bizkaia	Hombre	42	1	22	0	0	1	0	400	2	Estan ok	Nunca	A veces	Nunca	Siempre	Hay demasiados	1	0	0	0
+118	Araba	Mujer	38	1	20	1	0	0	0	10	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+119	Araba	Mujer	33	1	13	0	0	0	0	5	1	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	1	0	0	0
+120	Bizkaia	Mujer	61	1	33	0	0	0	0	30	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+121	Gipuzkoa	Mujer	75	1	51	0	0	0	0	1	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	1	0	1
+122	Araba	Hombre	58	1	40	0	0	0	0	200	2	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	1	1	1
+123	Bizkaia	Mujer	46	1	29	1	0	0	0	10	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+124	Araba	Hombre	57	1	39	1	0	0	0	100	5	Muy bajos	Alguna vez	A veces	Nunca	Siempre	No debe haber ninguno	1	0	0	0
+125	Gipuzkoa	Mujer	59	1	25	0	0	0	0	20	0	Estan ok	Nunca	Nunca	Nunca	Siempre	No debe haber ninguno	0	0	0	0
+126	Gipuzkoa	Mujer	31	1	13	0	0	0	0	20	0	Estan ok	Nunca	A veces	A veces	Siempre	Hay que colocar mas	0	0	0	0
+127	Gipuzkoa	Mujer	33	1	15	0	0	0	0	20	2	Estan ok	Alguna vez	Nunca	A veces	Siempre	Estan ok	1	1	0	1
+128	Bizkaia	Mujer	22	1	3	0	0	0	0	10	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+129	Bizkaia	Hombre	54	1	35	0	0	0	0	100	2	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+130	Bizkaia	Hombre	45	1	26	0	0	0	0	100	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+131	Bizkaia	Mujer	52	1	20	0	0	0	0	90	0	Estan ok	Nunca	Nunca	Nunca	Siempre	No debe haber ninguno	0	0	0	0
+132	Bizkaia	Mujer	40	1	22	1	0	0	0	100	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+133	Gipuzkoa	Hombre	46	1	19	0	0	0	0	100	2	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	1	1	1
+134	Araba	Mujer	32	1	14	0	0	0	0	200	1	Muy altos	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+135	Araba	Mujer	44	1	18	0	0	0	0	10	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+136	Araba	Mujer	40	1	17	1	0	0	0	2	2	Muy bajos	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+137	Araba	Hombre	57	1	39	0	1	0	0	600	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+138	Araba	Hombre	60	1	40	1	1	0	0	60	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	0
+139	Gipuzkoa	Mujer	55	1	25	0	0	0	0	50	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	0
+140	Bizkaia	Mujer	37	1	14	0	0	0	0	325	1	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay demasiados	1	0	0	0
+141	Araba	Hombre	50	1	30	1	0	1	0	150	1	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	1	1	1	1
+142	Gipuzkoa	Mujer	44	1	26	1	0	0	0	200	1	Estan ok	Alguna vez	A veces	A veces	Siempre	Estan ok	1	0	0	0
+143	Bizkaia	Hombre	54	1	35	0	0	0	0	2000	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	1	0	1
+144	Bizkaia	Hombre	77	1	52	0	0	0	0	10	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	1	0	0	0
+145	Bizkaia	Mujer	50	1	30	0	0	0	0	0	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	0	0	0
+146	Araba	Hombre	34	1	14	0	0	0	0	50	0	Muy altos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+147	Bizkaia	Mujer	35	1	9	0	0	0	0	30	1	Muy bajos	Alguna vez	Nunca	A veces	Siempre	Estan ok	1	0	0	0
+148	Bizkaia	Mujer	52	1	34	0	0	0	0	50	0	Muy bajos	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+149	Bizkaia	Mujer	42	1	20	0	0	0	0	100	0	Estan ok	Alguna vez	Nunca	Nunca	No siempre	Hay demasiados	0	1	1	1
+150	Bizkaia	Mujer	45	1	27	1	0	0	0	60	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	0	0	0
+151	Bizkaia	Hombre	54	1	35	0	0	0	0	2000	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	1	0	1
+152	Bizkaia	Hombre	24	1	6	0	0	0	0	500	0	Estan ok	Nunca	A veces	Nunca	Siempre	Estan ok	0	0	0	0
+153	Araba	Hombre	37	1	19	0	0	0	0	400	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+154	Gipuzkoa	Hombre	72	1	40	0	0	0	0	40	0	Muy altos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+155	Bizkaia	Hombre	73	1	45	0	0	0	0	0	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	1	0
+156	Bizkaia	Hombre	27	1	3	1	0	0	0	10	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+157	Bizkaia	Mujer	47	1	18	0	0	1	0	520	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay demasiados	0	1	0	0
+158	Bizkaia	Hombre	78	1	55	0	0	0	0	175	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	1	1
+159	Bizkaia	Mujer	45	1	23	0	0	0	0	5	1	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay demasiados	1	0	0	0
+160	Bizkaia	Mujer	27	1	5	0	0	0	0	800	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+161	Bizkaia	Mujer	26	1	3	0	0	0	0	0	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+162	Araba	Hombre	36	1	17	1	1	0	0	50	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	0	1	1	1
+163	Bizkaia	Mujer	48	1	28	0	0	0	0	100	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	0	1	0
+164	Bizkaia	Mujer	23	1	4	0	0	0	0	0	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+165	Araba	Hombre	49	1	31	1	0	0	0	250	1	Estan ok	Alguna vez	A veces	A veces	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+166	Bizkaia	Hombre	44	1	25	1	1	0	1	34	0	Estan ok	Bastante/Mucho	Nunca	Nunca	Siempre	Hay demasiados	0	1	1	1
+167	Araba	Hombre	49	1	31	0	0	0	0	300	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+168	Bizkaia	Mujer	45	1	25	0	0	0	0	20	3	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+169	Bizkaia	Hombre	30	1	8	0	0	0	0	100	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	1	1	1
+170	Bizkaia	Mujer	65	1	37	0	0	0	0	20	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+171	Bizkaia	Mujer	40	1	15	0	0	0	0	100	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+172	Bizkaia	Mujer	22	1	1	0	0	0	0	5	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+173	Araba	Hombre	68	1	48	0	0	0	0	100	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+174	Bizkaia	Mujer	25	1	4	0	0	0	0	20	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+175	Bizkaia	Hombre	45	1	27	1	1	0	0	200	1	Muy bajos	Bastante/Mucho	A veces	Nunca	Siempre	Hay demasiados	1	1	0	1
+176	Araba	Mujer	65	1	45	0	0	0	0	50	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+177	Araba	Hombre	52	1	27	0	0	0	0	200	3	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+178	Araba	Mujer	52	1	32	0	0	0	0	180	4	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay demasiados	1	1	0	1
+179	Gipuzkoa	Hombre	74	1	38	1	0	0	0	6	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+180	Bizkaia	Mujer	41	1	15	1	0	0	0	50	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	0	0	0
+181	Bizkaia	Hombre	54	1	25	0	0	0	0	500	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	1	0	1
+182	Bizkaia	Hombre	41	1	18	0	0	0	0	100	10	Estan ok	Alguna vez	Nunca	A veces	Siempre	Estan ok	1	1	1	1
+183	Bizkaia	Mujer	31	1	7	0	0	0	0	250	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+184	Bizkaia	Mujer	26	1	6	0	0	0	0	3	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+185	Araba	Mujer	74	1	30	0	0	0	0	10	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+186	Araba	Hombre	28	1	8	0	0	0	0	100	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+187	Bizkaia	Hombre	81	1	30	1	0	0	0	70	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	1	1
+188	Bizkaia	Mujer	60	1	32	0	0	0	0	200	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	No debe haber ninguno	1	0	0	0
+189	Gipuzkoa	Hombre	79	1	50	0	0	0	0	300	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+190	Bizkaia	Mujer	58	1	40	0	0	0	0	20	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+191	Bizkaia	Hombre	65	1	40	0	0	0	1	50	3	Muy bajos	Bastante/Mucho	Nunca	A veces	Siempre	Hay que colocar mas	1	1	1	0
+192	Bizkaia	Mujer	54	1	32	0	0	0	0	50	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+193	Bizkaia	Hombre	41	1	23	0	0	0	0	250	0	Muy bajos	Bastante/Mucho	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	0
+194	Araba	Mujer	47	1	27	0	0	0	0	350	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+195	Bizkaia	Hombre	43	1	23	0	0	0	0	0	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+196	Araba	Mujer	61	1	37	0	0	0	0	300	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+197	Araba	Hombre	39	1	20	0	0	0	0	50	2	Estan ok	Nunca	A veces	Nunca	Siempre	Estan ok	1	1	0	0
+198	Araba	Hombre	44	1	24	1	0	0	0	500	2	Estan ok	Nunca	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+199	Bizkaia	Hombre	71	1	38	0	0	0	0	2	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	1	0	0
+200	Gipuzkoa	Hombre	62	1	15	0	0	0	0	10	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+201	Bizkaia	Mujer	22	1	4	1	0	0	0	30	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+202	Bizkaia	Hombre	65	1	38	0	0	0	0	100	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+203	Bizkaia	Hombre	41	1	18	1	1	1	0	500	4	Muy bajos	Bastante/Mucho	A veces	Nunca	Siempre	Estan ok	1	1	0	1
+204	Bizkaia	Hombre	53	1	35	0	0	0	0	100	2	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	1	1	0	1
+205	Bizkaia	Hombre	35	1	18	1	1	1	0	350	0	Muy bajos	Bastante/Mucho	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+206	Bizkaia	Mujer	68	1	42	0	0	0	0	15	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+207	Araba	Hombre	50	1	30	1	0	0	0	50	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+208	Bizkaia	Mujer	40	1	13	0	0	0	0	250	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+209	Bizkaia	Hombre	47	1	38	0	0	0	0	200	1	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+210	Bizkaia	Mujer	42	1	22	0	0	0	0	15	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+211	Bizkaia	Mujer	44	1	26	0	0	0	0	125	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	1	0	1
+212	Gipuzkoa	Mujer	39	1	20	1	0	0	0	100	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	0	1	0	1
+213	Bizkaia	Hombre	64	1	46	1	0	0	0	300	50	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	1	1
+214	Araba	Hombre	72	1	54	0	0	1	1	150	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+215	Bizkaia	Hombre	20	1	2	0	0	0	0	200	4	Muy bajos	Bastante/Mucho	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+216	Araba	Mujer	61	1	33	0	0	0	0	4	1	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+217	Bizkaia	Hombre	20	1	1	1	0	0	0	20	0	Estan ok	Nunca	A veces	Nunca	Siempre	Estan ok	0	0	0	0
+218	Bizkaia	Mujer	45	1	5	0	0	0	0	20	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+219	Bizkaia	Mujer	32	1	5	0	0	1	0	15	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+220	Bizkaia	Mujer	55	1	37	0	1	0	0	30	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+221	Gipuzkoa	Mujer	31	1	4	0	0	0	0	20	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+222	Araba	Hombre	50	1	32	0	0	0	0	3	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+223	Araba	Mujer	42	1	10	0	0	0	0	100	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+224	Araba	Hombre	54	1	36	0	0	0	0	400	1	Muy bajos	Alguna vez	A veces	A veces	Siempre	Hay que cambiarlos de sitio	1	1	1	1
+225	Gipuzkoa	Hombre	62	1	35	0	0	0	0	100	5	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+226	Bizkaia	Mujer	40	1	22	0	0	0	0	40	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+227	Bizkaia	Hombre	38	1	1	0	1	0	0	100	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+228	Gipuzkoa	Mujer	23	1	5	0	0	0	0	20	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	No debe haber ninguno	1	0	0	0
+229	Araba	Hombre	37	1	19	0	1	0	0	10	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+230	Araba	Hombre	56	1	38	1	0	0	0	40	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+231	Araba	Hombre	50	1	20	0	0	0	0	100	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	1	1	1
+232	Bizkaia	Hombre	40	1	15	1	0	1	0	60	1	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	1	0
+233	Gipuzkoa	Mujer	68	1	36	0	0	0	0	100	1	Estan ok	Nunca	Nunca	A veces	Siempre	Estan ok	1	1	0	1
+234	Bizkaia	Hombre	65	1	47	0	0	0	0	100	4	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+235	Bizkaia	Mujer	36	1	18	1	0	1	0	300	1	Estan ok	Alguna vez	A veces	A veces	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+236	Araba	Hombre	63	1	41	0	0	0	0	30	0	Muy bajos	Alguna vez	A veces	Nunca	Siempre	No debe haber ninguno	0	0	0	0
+237	Araba	Hombre	18	1	3	1	0	0	0	0	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+238	Gipuzkoa	Mujer	41	1	23	0	0	0	0	15	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+239	Bizkaia	Mujer	56	1	34	0	0	0	0	10	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	1	1
+240	Gipuzkoa	Mujer	46	1	12	0	0	0	0	60	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+241	Bizkaia	Hombre	63	1	38	0	0	0	0	50	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+242	Araba	Mujer	48	1	23	0	0	0	0	25	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+243	Araba	Hombre	56	1	25	0	0	0	0	100	3	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	0	0	0
+244	Bizkaia	Hombre	69	1	30	0	0	0	0	30	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	0
+245	Bizkaia	Hombre	45	1	25	0	0	0	0	100	5	Estan ok	Nunca	Nunca	A veces	Siempre	Hay que colocar mas	1	1	0	1
+246	Bizkaia	Hombre	63	1	43	0	0	0	0	200	4	Estan ok	Bastante/Mucho	A veces	A veces	Siempre	Estan ok	1	1	0	0
+247	Araba	Mujer	20	1	1	1	0	0	0	0	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+248	Gipuzkoa	Mujer	39	1	19	0	0	0	0	1	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+249	Bizkaia	Hombre	46	1	26	1	0	0	0	60	2	Muy bajos	Bastante/Mucho	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+250	Bizkaia	Hombre	55	1	37	0	0	0	1	1000	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+251	Bizkaia	Mujer	50	1	25	0	0	0	0	60	2	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+252	Gipuzkoa	Hombre	57	1	39	0	0	0	0	400	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+253	Gipuzkoa	Mujer	46	1	23	0	0	0	0	160	3	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+254	Araba	Hombre	55	1	37	0	0	0	0	400	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay que colocar mas	0	1	0	1
+255	Araba	Mujer	53	1	15	0	0	0	0	100	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	1	1	1
+256	Bizkaia	Hombre	65	1	30	1	0	0	0	40	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+257	Bizkaia	Hombre	70	1	44	0	0	0	1	300	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+258	Gipuzkoa	Hombre	62	1	45	0	0	0	0	200	0	Estan ok	Nunca	Nunca	Nunca	Siempre	No debe haber ninguno	0	0	0	0
+259	Bizkaia	Hombre	42	1	23	0	0	0	0	400	0	Muy bajos	Alguna vez	A veces	A veces	Siempre	Hay demasiados	0	1	1	0
+260	Araba	Hombre	50	1	35	0	0	0	0	60	0	Estan ok	Alguna vez	Nunca	Nunca	No siempre	Hay demasiados	0	1	1	0
+261	Bizkaia	Hombre	20	1	2	1	1	0	0	30	0	Muy bajos	Nunca	A veces	Nunca	Siempre	Estan ok	0	1	0	0
+262	Araba	Hombre	65	1	40	1	0	0	0	20	10	Estan ok	Alguna vez	A veces	A veces	No siempre	Hay demasiados	1	1	0	1
+263	Araba	Mujer	23	1	4	1	0	0	0	20	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+264	Bizkaia	Hombre	40	1	21	1	0	0	1	1500	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+265	Gipuzkoa	Mujer	29	1	10	0	0	0	0	20	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+266	Bizkaia	Mujer	53	1	23	0	0	0	0	20	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+267	Bizkaia	Mujer	45	1	18	0	0	0	0	20	2	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+268	Bizkaia	Mujer	56	1	20	0	0	0	0	0	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+269	Bizkaia	Hombre	50	1	32	1	1	0	0	200	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+270	Araba	Hombre	24	1	4	0	0	0	0	300	2	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+271	Bizkaia	Hombre	61	1	43	0	0	0	0	200	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	No debe haber ninguno	1	1	0	1
+272	Gipuzkoa	Mujer	24	1	6	1	1	0	0	3	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+273	Bizkaia	Hombre	74	1	50	0	0	0	0	200	4	Muy altos	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	1	1	1
+274	Araba	Mujer	56	1	36	0	0	0	0	60	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	1	1	0	1
+275	Araba	Hombre	65	1	45	0	0	0	0	150	1	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	1	1	0	1
+276	Araba	Hombre	60	1	40	0	0	0	0	200	1	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	0
+277	Bizkaia	Hombre	41	1	20	0	0	0	0	50	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+278	Gipuzkoa	Hombre	62	1	41	0	0	0	0	10	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	0	1	0	1
+279	Gipuzkoa	Mujer	60	1	22	0	0	0	0	20	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	1	0
+280	Gipuzkoa	Mujer	54	1	15	0	0	0	0	250	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+281	Bizkaia	Mujer	48	1	28	0	0	0	0	20	0	Estan ok	Bastante/Mucho	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+282	Bizkaia	Hombre	47	1	25	0	0	0	0	500	2	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	0	0	0
+283	Araba	Hombre	42	1	24	1	0	0	0	40	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+284	Araba	Mujer	63	1	45	0	0	0	0	40	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+285	Bizkaia	Hombre	45	1	24	1	0	0	0	200	0	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	1	0	1
+286	Gipuzkoa	Mujer	48	1	30	0	0	0	0	400	2	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay demasiados	1	1	1	1
+287	Araba	Mujer	45	1	25	0	0	0	0	100	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+288	Bizkaia	Hombre	80	1	62	0	0	0	0	50	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+289	Araba	Hombre	43	1	17	1	0	0	0	80	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+290	Araba	Mujer	42	1	12	1	0	0	0	50	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+291	Bizkaia	Hombre	37	1	18	1	0	0	0	10	0	Muy bajos	Bastante/Mucho	Nunca	Nunca	Siempre	Estan ok	0	1	0	0
+292	Araba	Hombre	35	1	15	0	1	0	0	700	0	Estan ok	Alguna vez	Nunca	A veces	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+293	Araba	Hombre	30	1	8	0	0	0	0	200	2	Muy bajos	Alguna vez	A veces	A veces	Siempre	Hay que cambiarlos de sitio	1	1	1	1
+294	Bizkaia	Hombre	75	1	39	0	0	0	0	50	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	1	1	1	1
+295	Bizkaia	Hombre	70	1	51	0	0	0	0	150	0	Estan ok	Alguna vez	A veces	A veces	Siempre	Estan ok	0	1	1	1
+296	Araba	Hombre	71	1	45	0	0	0	0	200	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	1	1	1
+297	Bizkaia	Hombre	39	1	18	0	0	0	0	300	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	1	0	1
+298	Bizkaia	Hombre	56	1	20	0	0	0	0	150	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+299	Bizkaia	Mujer	49	1	30	0	0	0	0	5	0	Estan ok	Nunca	Nunca	A veces	Siempre	Hay que colocar mas	0	0	0	0
+300	Bizkaia	Hombre	40	1	15	0	0	0	0	1000	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+301	Araba	Mujer	22	1	2	1	0	0	0	5	1	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	1	0	0	0
+302	Araba	Mujer	44	1	20	0	0	0	0	10	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que colocar mas	0	0	0	0
+303	Araba	Hombre	76	1	42	0	0	0	0	40	2	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+304	Bizkaia	Mujer	22	1	3	0	0	0	0	350	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+305	Araba	Mujer	33	1	15	0	0	0	0	200	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+306	Bizkaia	Hombre	51	1	30	0	0	1	0	20	0	Estan ok	Bastante/Mucho	A veces	Nunca	Siempre	Hay que colocar mas	0	1	0	0
+307	Araba	Hombre	56	1	34	1	1	0	0	15	0	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	0	1	0	0
+308	Gipuzkoa	Hombre	58	1	40	1	0	0	0	300	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	1	1	1	1
+309	Gipuzkoa	Mujer	48	1	31	0	0	0	0	40	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay demasiados	0	1	0	1
+310	Bizkaia	Hombre	40	1	22	1	1	1	0	300	3	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay que colocar mas	1	1	1	0
+311	Bizkaia	Hombre	53	1	25	0	0	0	0	300	0	Estan ok	Alguna vez	A veces	A veces	Siempre	Estan ok	0	1	0	1
+312	Gipuzkoa	Hombre	43	1	25	0	0	0	0	45	4	Estan ok	Alguna vez	A veces	Nunca	Siempre	Estan ok	1	1	0	1
+313	Araba	Mujer	36	1	18	1	0	0	0	250	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+314	Bizkaia	Mujer	50	1	25	0	0	0	0	1	0	Muy bajos	Nunca	Nunca	Nunca	Siempre	Hay demasiados	0	0	0	0
+315	Bizkaia	Hombre	60	1	42	0	0	0	0	500	1	Muy bajos	Nunca	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+316	Araba	Hombre	56	1	35	1	0	0	0	150	1	Muy bajos	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	1	1	1
+317	Bizkaia	Hombre	40	1	20	0	1	0	0	100	0	Estan ok	Alguna vez	A veces	Nunca	Siempre	Hay demasiados	0	1	0	1
+318	Araba	Mujer	44	1	20	1	0	0	0	50	0	Estan ok	Nunca	Nunca	Nunca	Siempre	Estan ok	0	0	0	0
+319	Bizkaia	Hombre	21	1	3	1	0	0	0	100	0	Muy bajos	Bastante/Mucho	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	0	1
+320	Araba	Mujer	45	1	15	0	0	0	0	70	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+321	Araba	Mujer	54	1	33	0	0	0	0	300	2	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	1	0	0	0
+322	Bizkaia	Hombre	32	1	5	0	1	0	0	0	0	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	0	0	0	0
+323	Bizkaia	Hombre	52	1	25	0	0	0	0	2	1	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que colocar mas	1	1	0	0
+324	Bizkaia	Hombre	53	1	30	0	0	0	0	200	4	Muy bajos	Alguna vez	A veces	Nunca	Siempre	Hay que cambiarlos de sitio	1	1	0	1
+325	Araba	Mujer	33	1	13	0	0	0	0	30	0	Estan ok	Alguna vez	Nunca	Nunca	Siempre	Hay que cambiarlos de sitio	0	1	1	1
