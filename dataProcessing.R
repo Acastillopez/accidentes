@@ -1,5 +1,5 @@
 accidentes <- read.delim("/cloud/project/accidentes_extraordinaria.txt", row.names=1)
-accidentes <- accidentes[-c(215,213),] 
+accidentes <- accidentes[-c(215,213,182),] 
 
 accidentes$periodo = "Adulto"; accidentes$periodo[accidentes$edad < 30] = "Joven"
 accidentes$periodo[accidentes$edad >= 60] = "Tercera"
@@ -20,13 +20,15 @@ accidentes[bools] <- lapply(accidentes[bools], factor,labels = c("No", "Sí"))
 
 # ACCIDENTES X KMS CONDUCIDOS (PROBLEMA ZEROS)
 #accidentes$acturismonum_km = acturismonum / kmturismo
-
+attach(accidentes)
 # ACCIDENTES POR AÑO DE CARNET
 accidentes["acturismo_anyo"] = acturismonum / carnetanyos
 
+accidentes["loganyos"] = log(carnetanyos)
+
 
 summary(accidentes)
-attach(accidentes)
+
 
 
 ###################################################
@@ -46,7 +48,5 @@ g = sample(cut(seq(nrow(accidentes)),nrow(accidentes)*cumsum(c(0,spec)),labels =
 full = split(accidentes, g)
 train = full$train; test = full$test; val = full$validate
 
-# CROSS VALIDATION
-# set.seed(125)
-# train_control <- trainControl(method = "cv", number = 10) 
+
 

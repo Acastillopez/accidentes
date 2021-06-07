@@ -7,8 +7,14 @@ mod_best =  glm(acturismonum~conductacinturon+conductamovil+conductaalcohol+
                   offset(loganyos), family=quasipoisson, data=train)
 
 mod_candi = glm(acturismonum~conductacinturon+
-                  conductamovil:conductaalcohol+
+                  #conductamovil:conductaalcohol+
                   edad+sexo+
+                  sancion_velocidad+
+                  offset(loganyos), family=quasipoisson, data=train)
+
+mod_candi2 = glm(acturismonum~conductacinturon+
+                  #conductamovil:conductaalcohol+
+                  edad+
                   sancion_velocidad+
                   offset(loganyos), family=quasipoisson, data=train)
 
@@ -18,16 +24,33 @@ mod_signiMax = glm(acturismonum~conductacinturon+conductamovil+conductaalcohol+
                      sancion_velocidad+
                      offset(loganyos), family=quasipoisson, data=train)
 
-anova(mod_candi,mod_signiMax,test = "Chisq")
-summary(mod_signiMax)
+anova(mod_candi,mod_candi2,test = "Chisq")
+
+summary(mod_best)
 summary(mod_candi)
 
-#There is a potential problem in using glm fits with a variable scale, 
-#as in that case the deviance is not simply related to the maximized 
-#log-likelihood. The glm method for extractAIC makes the appropriate 
-#adjustment for a gaussian family, but may need to be amended for other cases. 
-#(The binomial and poisson families have fixed scale by default and 
-#do not correspond to a particular maximum-likelihood problem for variable scale.) 
+## EVALUACIÓN EN TEST
+
+mod_fin = glm(acturismonum ~ conductacinturon +
+               edad + sancion_velocidad +
+               offset(loganyos), family=quasipoisson, data=train)
+test_predicted = predict(mod_fin, test, type="response")
+val_predicted = predict(mod_fin, val, type="response")
+ajustados_test = test_predicted/test$carnetanyos
+ajustados_val = val_predicted/val$carnetanyos
 
 
-stepAIC
+plot(test$acturismonum - test_predicted)
+
+
+summary(ajustados_val)
+tapply(ajustados_val, val$conductacinturon, mean)
+tapply(ajustados_val, val$conductamovil, mean)
+tapply(ajustados_val, val$conducebicicleta, mean)
+tapply(ajustados_val, val$sancion_velocidad, mean)
+plot(val$edad)
+plot(tapply(ajustados_val, val$edad, mean))
+tapply(ajustados_val, val$sexo, mean)
+tapply(ajustados_val, val$edad, mean)
+
+

@@ -7,7 +7,7 @@
 Phi = var(accidentes$acturismonum)/mean(accidentes$acturismonum)
 # La variable acturismo_anyo es la tasa a predecir
 # tasa = acturisnum_anyo , E = carnetanyos
-loganyos = log(train$carnetanyos)
+# loganyos = log(train$carnetanyos)
 # los exponentes de los betas -> numero de veces de más de media  
 
 # modelo para test estadísticos
