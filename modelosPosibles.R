@@ -4,25 +4,26 @@ mod_best =  glm(acturismonum~conductacinturon+conductamovil+conductaalcohol+
                   conductamovil:conductaalcohol+
                   edad+
                   
-                  offset(loganyos), family=quasipoisson, data=train)
+                  offset(loganyos), family=poisson, data=accidentes)
 
 mod_candi = glm(acturismonum~conductacinturon+
                   #conductamovil:conductaalcohol+
                   edad+sexo+
                   sancion_velocidad+
-                  offset(loganyos), family=quasipoisson, data=train)
+                  offset(loganyos), family=poisson, data=accidentes)
 
 mod_candi2 = glm(acturismonum~conductacinturon+
                   #conductamovil:conductaalcohol+
                   edad+
                   sancion_velocidad+
-                  offset(loganyos), family=quasipoisson, data=train)
+                  offset(loganyos), family=poisson, data=accidentes)
 
-mod_signiMax = glm(acturismonum~conductacinturon+conductamovil+conductaalcohol+
-                     conductamovil:conductaalcohol+
+mod_signiMax = glm(acturismonum~#conductacinturon+#conductamovil+
+                     conductaalcohol+
+                     #conductamovil:conductaalcohol+
                      edad+sexo+
                      sancion_velocidad+
-                     offset(loganyos), family=quasipoisson, data=train)
+                     offset(loganyos), family=poisson, data=accidentes)
 
 anova(mod_candi,mod_candi2,test = "Chisq")
 
@@ -31,9 +32,9 @@ summary(mod_candi)
 
 ## EVALUACIÓN EN TEST
 
-mod_fin = glm(acturismonum ~ conductacinturon +
+mod_fin = glm(acturismonum ~ sexo + conductaalcohol +
                edad + sancion_velocidad +
-               offset(loganyos), family=quasipoisson, data=train)
+               offset(loganyos), family=poisson, data=accidentes)
 test_predicted = predict(mod_fin, test, type="response")
 val_predicted = predict(mod_fin, val, type="response")
 ajustados_test = test_predicted/test$carnetanyos

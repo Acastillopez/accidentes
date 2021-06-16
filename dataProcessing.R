@@ -1,5 +1,5 @@
 accidentes <- read.delim("/cloud/project/accidentes_extraordinaria.txt", row.names=1)
-accidentes <- accidentes[-c(215,213,182),] 
+accidentes <- accidentes[-c(215,213,182,262),] 
 
 accidentes$periodo = "Adulto"; accidentes$periodo[accidentes$edad < 30] = "Joven"
 accidentes$periodo[accidentes$edad >= 60] = "Tercera"
